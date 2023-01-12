@@ -4,7 +4,7 @@
 
 Link Para acessar: https://ianfranco7.github.io/Caixa-de-som/
 
- Projeto realizado para trabalhar a seleção de itens dentro do array de forma dinâmica e faze-los tocar o som específico de cada instrumento.
+Projeto realizado para trabalhar a seleção de itens dentro do array de forma dinâmica e fazer cada item tocar o seu som específico de cada instrumento.
  
  ## Resultado Final
  
